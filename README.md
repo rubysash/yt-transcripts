@@ -4,7 +4,7 @@ A simple Python GUI app to extract YouTube video transcripts and format them wit
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 ![App Screenshot](./screenshot.png)
 ---
 
@@ -29,7 +29,7 @@ A simple Python GUI app to extract YouTube video transcripts and format them wit
 ```
 ---
 
-## 🛠️ How it works
+## How it works
 
 - Enter a **YouTube video URL** (standard or short format).
 - The app **extracts the video ID**.
@@ -39,7 +39,7 @@ A simple Python GUI app to extract YouTube video transcripts and format them wit
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 - **Review videos** faster by reading the transcript.
 - **Search for keywords** in transcripts.
@@ -50,7 +50,7 @@ A simple Python GUI app to extract YouTube video transcripts and format them wit
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.x
 - tkinter (included with Python on Windows)
