@@ -10,23 +10,25 @@ A simple Python GUI app to extract YouTube video transcripts and format them wit
 
 ##  Installation on Windows using venv
 
-1. **Clone the repository**
+1. **Create a virtual environment**  
 ```
-   git clone https://github.com/rubysash/yttranscript.git  
-   cd youtube-transcript-viewer
-```
-2. **Create a virtual environment**  
-```
+   cd whateveryourvenvplaceis
    python -m venv yt-transcripts
+```
+2. **Clone the repository**
+```
+   git clone https://github.com/rubysash/yt-transcripts.git  
+   cd yt-transcripts
 ```
 3. **Activate the virtual environment**  
 ```
-   venv\Scripts\activate
+   Scripts\activate
 ```
 4. **Install dependencies**  
 ```
    pip install -r requirements.txt
 ```
+
 ---
 
 ## How it works
