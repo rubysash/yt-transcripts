@@ -2,6 +2,10 @@
 
 A simple Python GUI app to extract YouTube video transcripts and format them with timestamps.
 
+It works great until YT decides to ban your IP.    It's fast, doesn't require actual transcribing as it just downloads the text.
+
+See the "transcriber" repo for something that works better, on any file and on all sorts of urls.  It's much more reliable, though I liked this while it worked.
+
 ---
 
 ## Screenshot
